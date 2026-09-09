@@ -11,30 +11,8 @@
     - [A4 — Baseline Reproduction](#a4--baseline-reproduction)
     - [Final Project — Your Modification](#final-project--your-modification)
 
-## Introduction
 
-> [!WARNING]
-> Remove this Introduction section once you have finished the setup.
 
-1. Create your own repository and name it `MWN-[year]-[Student ID]-[English Name]`.
-   Example: `MWN-2026-M11302832-Joshevan`.
-2. Copy this file into your repository as `README.md` and fill in your [profile](#1-profile).
-3. Register your GitHub account and repository in the
-   [Google form](https://forms.gle/qataUNg49DX6qdiY9).
-4. Create one folder per assignment and write your study note as a `.md` file inside it:
-
-   ```
-   MWN-2026-M11302832-Joshevan/
-   ├── README.md
-   ├── A1-background/           study-note.md, slides, rehearsal feedback
-   ├── A2-ns3-setup/            study-note.md, src/, results/
-   ├── A3-literature-review/    study-note.md, revised proposal
-   ├── A4-baseline/             study-note.md, src/, results/
-   └── final-project/           report.md, src/, results/
-   ```
-
-5. Commit **every week**. The history is part of the grade — a single upload on the deadline is
-   not acceptable.
 
 ## 1. Profile
 
